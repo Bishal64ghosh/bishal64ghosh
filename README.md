@@ -7,52 +7,26 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-I am a Computer Science student with a strong interest in **Cybersecurity, Ethical Hacking, and Web Development**.  
-I enjoy understanding how systems work, identifying vulnerabilities, and building secure solutions.
-
-- 🛠️ Learning by building real-world projects  
-- 🔎 Exploring security from both attacker & defender perspectives  
-- 📈 Continuously improving my technical skills  
-
----
-
-## 🔥 Currently Working On
-
-- Cybersecurity projects & security research  
-- Web application development  
-- Data Structures & Algorithms practice  
-- Participating in hackathons  
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C | C++ | Python | JavaScript  
+HTML | Bash | Python | JavaScript |SQL
 
-**Web Technologies:**  
-HTML | CSS | Node.js  
+**Networking:**  
+TCP/IP | OSI Model | VPNS | Firewalla | DHCP | DNS  
 
 **Security & Tools:**  
 Kali Linux | Basic Pentesting | XSS Testing  
-Git | GitHub | VS Code  
+Git | GitHub | VS Code | Wireshark | Burp Suite | Metasploits Frameworks | Nmap  
 
 ---
 
-## 🎯 Goals
+## 🏆 Achievements
 
-- Become a skilled Cybersecurity Engineer  
-- Contribute to open-source security projects  
-- Build secure and impactful applications  
+- Participated in multiple Hackathons and Secured **4th Place** in **M-Code Hackathon** conducted by (IIEST) 
+- Completed **100+ rooms on TryHackMe** 
+- Achieved **Top 6 Rank** in TryHackMe
 
----
-
-## 📫 Connect With Me
-
-LinkedIn: (Add your link here)  
-Email: (Add your email here)
 
 <!--
 **Bishal64ghosh/bishal64ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
