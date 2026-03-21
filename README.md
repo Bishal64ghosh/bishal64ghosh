@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-HTML | Bash | Python | JavaScript |SQL
+HTML | Bash | Python | JavaScript |SQL 
 
 **Networking:**  
 TCP/IP | OSI Model | VPNS | Firewalla | DHCP | DNS  
