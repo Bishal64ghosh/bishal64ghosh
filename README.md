@@ -25,7 +25,8 @@ Git | GitHub | VS Code | Wireshark | Burp Suite | Metasploits Frameworks | Nmap
 
 - Participated in multiple Hackathons and Secured **4th Place** in **M-Code Hackathon** conducted by (IIEST) 
 - Completed **100+ rooms on TryHackMe** 
-- Achieved **Top 6 Rank** in TryHackMe
+- Achieved **Top 5 Rank** in TryHackMe
+- completed 20+ rooms in picoCTF
 
   
 ---
