@@ -23,7 +23,8 @@ Git | GitHub | VS Code | Wireshark | Burp Suite | Metasploits Frameworks | Nmap
 
 ## 🏆 Achievements
 
-- Participated in multiple Hackathons and Secured **4th Place** in **M-Code Hackathon** conducted by (IIEST) 
+- Participated in multiple Hackathons and Secured **4th Place** in **M-Code Hackathon** conducted by (IIEST)
+- Secured 2nd Place in “Chaos or Release” Cybersecurity Event organized by X-Ops Club at Jain University (March 25, 2026).
 - Completed **100+ rooms on TryHackMe** 
 - Achieved **Top 5 Rank** in TryHackMe
 - completed 20+ rooms in picoCTF
